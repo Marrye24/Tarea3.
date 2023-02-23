@@ -1,0 +1,86 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="Viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi ejemplo de Tienda de Arte</title>
+</head>
+
+<body>
+    <header>
+        <h1> Mi Ejemplo de Tienda de Arte</h1>
+    </header>
+    <nav>
+        <li><a href="Inicio">Inicio</a></li>
+        <li><a href="">Artista</a></li>
+        <li><a href="">Obras de Arte</a></li>
+        <li><a href="">Sobre nosotros</a></li>
+        <li><a href="">Búsqueda</a></li>
+    </nav>
+    <main>
+        <article>
+            <h2> Contacts</h2>
+        </article>
+    </main>
+    <aside>
+        <h2> Mademoiselle Caroline Rivière</h2>
+    </aside>
+    <img src="images3/06010-medium.jpg" alt="imagenmedium" title="imagenmedium">
+    <em> de Jean Auguste Dominique Ingres</em>
+    <p>El retrato de Mademoiselle Caroline de Rivière fue pintado en 1806 por el artista Neolítico francés Jean Auguste
+        Dominique
+        Ingres, y hoy esta expuesto en el Louvre. Es el tercero de tres retratos de la familia Rivière que el artista
+        pinto ese año. </p>
+
+    Fecha: 1806 <br>
+    Técnica: Óleo sobre lienzo <br>
+    Dimensiones: 100 x 70 cm <br>
+    Hogar: Musèe du Louvre Paris. <br>
+    <img src="images3/add-to-basket_btn.png" alt="basket" title="basket">
+    <img src="images3/add-to-favorites_btn.png" alt="favorites" title="favorites"> <br>
+    Compartir: <img src="images3/facebook_16.png" alt="Facebook" title="Facebook">
+    <img src="images3/twitter_16.png" alt="Twitter" title="Twitter">
+    <img src="images3/sharethis_16.png" alt="share" title="share">
+    <h3>Pinturas relacionadas</h3>
+    <img src="images3/06020.jpg" alt="pin" title="pin">
+    <img src="images3/07020.jpg" alt="imagen2" title="imagen">
+    <img src="images3/13030.jpg" alt="imagen3" title="iamgen3">
+    <img src="images3/05030.jpg" alt="img4" title="img4">
+    <h4>Revisiones</h4>
+    <section>
+        <p> <b>Amo esta pintura</b></p>
+        <p>John Smith
+            <img src="images3/star-orange.png" alt="star" title="star">
+            <img src="images3/star-orange.png" alt="star" title="star">
+            <img src="images3/star-orange.png" alt="star" title="star">
+            <img src="images3/star-orange.png" alt="star" title="star">
+            <img src="images3/star-white.png" alt="white" title="white">
+        <p> <br>
+        <p>Loren ipsum dolor sit amet, consectetur adipiscing elit. Etiam id metus sit amet ipsum cursus placerat
+            nec vel enim. Aliquam justo tortor, euismod quis facilisis ullamcorper, consequent sed eros </p>
+
+        <hr>
+        <p> <b>Esta bien</b></p>
+        <p>Jane Doe
+            <img src="images3/star-orange.png" alt="star" title="star">
+            <img src="images3/star-orange.png" alt="star" title="star">
+            <img src="images3/star-orange.png" alt="star" title="star">
+            <img src="images3/star-white.png" alt="white" title="white">
+            <img src="images3/star-white.png" alt="white" title="white"> <br>
+        <p> Quisque vitae ipsum quis risus sagittis sollicitudin. Nam elementum ipsum malesuada mi sagittis hendrerit
+        </p>
+        <hr>
+        </p>
+    </section>
+    <footer>
+        <p id="home"><a href="#">Inicio</a> | <a href="#">Obras de Arte</a> | <a href="#">Artistas</a> | <a
+                href="#">Acerca de nosotros</a> <br>
+    </footer>
+    <em>Copyright &copy; <time>2022</time> Mi ejemplo de tienda de arte</em></p>
+
+</body>
+
+<html>
